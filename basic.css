@@ -1,0 +1,66 @@
+body
+{
+	text-align:justify;
+	font-size:13pt;
+	color:orangered;
+	font-family:serif;
+	background-image: url("kyle_lowry_wallpaper_by_bjens-d8bwfqz.jpg");
+	background-repeat:repeat-y;
+	background-size:100% 25%;
+	
+	
+}
+
+/*specify sizes using both relative and absolute lengths*/
+
+
+ul
+{
+	color:royalblue;
+	width:18%;
+	margin:auto;
+	
+}
+
+
+
+#h1
+{
+	font-size:26pt;
+	color:firebrick;
+	text-align:center;
+	
+}
+
+.center
+{
+	color:goldenrod;
+	text-align:justify;
+}
+
+a:link
+{
+	color:khaki;
+}
+
+a:visited
+{
+	color:lightsalmon
+}
+
+a:hover
+{
+	color:white;
+}
+
+a:active
+{
+	color:black;
+}
+
+.img
+{
+	border-color:black;
+	border-width:medium;
+	border-style:solid;
+}
